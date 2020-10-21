@@ -1,0 +1,3 @@
+Start the backend server using the following command:
+
+npm run serve
